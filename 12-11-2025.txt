@@ -1,0 +1,7 @@
+what is modeule, core modules and global objeact
+node js setup 
+how to create a server 
+fundamental of javascript.(revere, loop, forloop, whileloop, object, array, variable);
+listen the port
+ extenal package istall adadn package .json 
+ 

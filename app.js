@@ -2,8 +2,7 @@
 
 const { log } = require("node:console");
 
-// fs.writeFileSync("anil chodhary.txt" , "my nam is ben")  //create a file in thise 
-
+// fs.writeFileSync("anil chodhary.txt" , "my nam is ben")  //create a file in this
 
 // console.log(20+20);
 
@@ -17,6 +16,19 @@ const { log } = require("node:console");
 // var b=23
 //  //  console.log(a+b);
 // -------------------------------------------------
+
+// const fs = require('fs')
+
+
+// fs.writeFileSyncq("tittle.txt" , "this is text file so ni write anything in this file");
+
+
+// const http  = require('http');
+// http.createServer((req , res ) =>{
+//     res.end("hello this server so make here!")
+// }).listen(5500);
+
+
 // - how to import the moduales 
 
 //  require through  modual import

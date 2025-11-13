@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "colors": "^1.4.0"
-  }
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.11"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashDhanani13/Node_serties.git"
+  },
+  "author": "Yash Dhanani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashDhanani13/Node_serties/issues"
+  },
+  "homepage": "https://github.com/YashDhanani13/Node_serties#readme",
+  "description": ""
 }

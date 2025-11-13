@@ -1,7 +1,27 @@
-what is modeule, core modules and global objeact
-node js setup 
-how to create a server 
-fundamental of javascript.(revere, loop, forloop, whileloop, object, array, variable);
-listen the port
- extenal package istall adadn package .json 
- 
+- what is modeule, core modules and global objeact
+- node js setup 
+- how to create a server 
+- fundamental of javascript.(revere, loop, forloop, whileloop, object, array, variable);
+- create a server 
+- listen the port
+- extenal package istall adadn package .json 
+- nodemon setup  , install , how it work 
+- understand request param
+
+
+
+
+
+13- 11- 2025 
+
+
+video: - 13
+video : 14
+video : 15
+video : 16
+video : 17 
+video : 18 
+video 19 
+
+
+
